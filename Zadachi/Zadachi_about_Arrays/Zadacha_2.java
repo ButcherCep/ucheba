@@ -1,3 +1,5 @@
+package Zadachi_about_Arrays;
+
 import java.util.Arrays;
 import java.util.stream.IntStream;
 

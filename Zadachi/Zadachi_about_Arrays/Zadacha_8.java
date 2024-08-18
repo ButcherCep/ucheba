@@ -1,7 +1,8 @@
+package Zadachi_about_Arrays;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 //https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/
 public class Zadacha_8 {

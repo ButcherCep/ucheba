@@ -1,3 +1,5 @@
+package Zadachi_about_Arrays;
+
 //https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/
 public class Zadacha_5 {
     public static void main(String[] args) {

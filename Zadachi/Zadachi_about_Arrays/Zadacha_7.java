@@ -1,9 +1,6 @@
-import java.lang.reflect.Array;
-import java.util.ArrayList;
+package Zadachi_about_Arrays;
+
 import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 //https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/
 public class Zadacha_7 {
